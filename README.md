@@ -9,7 +9,7 @@ To install this project you need to clone it, then once it's done, go into the f
 
 # How to use
 Once the project is installed, you can run it the following way : `./philo number_of_philosophers time_to_die time_to_eat time_to_sleep [number_of_times_each_philosopher_must_eat]`
-where 
+where :
 `number_of_philosophers` is the number of philosophers at the table and also the number of forks,
 `time_to_die` is the time in milliseconds in which a philosopher needs to eat,
 `time_to_eat` is the time in milliseconds during which a philosopher eats, during this time, he needs two forks,
